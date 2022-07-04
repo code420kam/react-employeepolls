@@ -1,0 +1,30 @@
+.authForm{
+    margin-top:5vh;
+}
+
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding:2vh;
+}
+
+.table-container {
+    width: 100vh;
+    padding: 5vh;
+    margin: 0 auto !important;
+}
+
+.formContainer{
+    width: 700px;
+    margin:0 auto;
+}
+
+p{
+    font-weight:lighter;
+    font-size: larger;
+}
+
+#main {
+    height: 100vh;
+}
