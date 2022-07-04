@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@code420kam 
-mauricewipf
-/
-employee-polls
-Public
-forked from udacity/nd0191-c2-React-Redux-project-starter
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-employee-polls/README.md
-@mauricewipf
-mauricewipf docs: Document installation
-Latest commit 8fb4756 18 days ago
- History
- 3 contributors
-@douglasbergman@mauricewipf@mtsamis2
-142 lines (93 sloc)  5.98 KB
-
 # Employee Polls Project
 
 This is the starter code for the final assessment project for Udacity's React & Redux course.
@@ -168,18 +139,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
