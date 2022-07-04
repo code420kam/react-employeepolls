@@ -1,5 +1,5 @@
 import { _saveQuestion, _saveQuestionAnswer } from "../utils/_DATA.js";
-import {authedUser} from "../components/AuthUser"
+import {authedUser} from "../components/AuthedUser"
 
 describe("data test", () => {
   it("will true if formatted question is passed", async () => {
